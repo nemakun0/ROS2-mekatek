@@ -1,0 +1,4 @@
+[console_scripts]
+listener = emine_hatun.subscriber:main
+talker = emine_hatun.publisher:main
+

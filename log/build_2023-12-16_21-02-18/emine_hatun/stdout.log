@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/emine_hatun/emine_hatun.egg-info
+writing ../../build/emine_hatun/emine_hatun.egg-info/PKG-INFO
+writing dependency_links to ../../build/emine_hatun/emine_hatun.egg-info/dependency_links.txt
+writing entry points to ../../build/emine_hatun/emine_hatun.egg-info/entry_points.txt
+writing requirements to ../../build/emine_hatun/emine_hatun.egg-info/requires.txt
+writing top-level names to ../../build/emine_hatun/emine_hatun.egg-info/top_level.txt
+writing manifest file '../../build/emine_hatun/emine_hatun.egg-info/SOURCES.txt'
+reading manifest file '../../build/emine_hatun/emine_hatun.egg-info/SOURCES.txt'
+writing manifest file '../../build/emine_hatun/emine_hatun.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/emine/mekatek/build/emine_hatun/build
+creating /home/emine/mekatek/build/emine_hatun/build/lib
+creating /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun
+copying emine_hatun/publisher.py -> /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun
+copying emine_hatun/subscriber.py -> /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun
+copying emine_hatun/__init__.py -> /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun
+running install
+running install_lib
+creating /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun
+copying /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun/publisher.py -> /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun
+copying /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun/subscriber.py -> /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun
+copying /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun/__init__.py -> /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun
+byte-compiling /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun/publisher.py to publisher.cpython-38.pyc
+byte-compiling /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun/subscriber.py to subscriber.cpython-38.pyc
+byte-compiling /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/emine/mekatek/install/emine_hatun/share/ament_index
+creating /home/emine/mekatek/install/emine_hatun/share/ament_index/resource_index
+creating /home/emine/mekatek/install/emine_hatun/share/ament_index/resource_index/packages
+copying resource/emine_hatun -> /home/emine/mekatek/install/emine_hatun/share/ament_index/resource_index/packages
+copying package.xml -> /home/emine/mekatek/install/emine_hatun/share/emine_hatun
+running install_egg_info
+Copying ../../build/emine_hatun/emine_hatun.egg-info to /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun-0.0.0-py3.8.egg-info
+running install_scripts
+Installing listener script to /home/emine/mekatek/install/emine_hatun/lib/emine_hatun
+Installing talker script to /home/emine/mekatek/install/emine_hatun/lib/emine_hatun
+writing list of installed files to '/home/emine/mekatek/build/emine_hatun/install.log'

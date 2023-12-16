@@ -1,0 +1,25 @@
+[0.458s] Invoking command in '/home/emine/mekatek/src/emine_hatun': PYTHONPATH=/home/emine/mekatek/build/emine_hatun/prefix_override:/home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emine_hatun build --build-base /home/emine/mekatek/build/emine_hatun/build install --record /home/emine/mekatek/build/emine_hatun/install.log --install-scripts $base/lib/emine_hatun --single-version-externally-managed
+[0.571s] running egg_info
+[0.571s] writing ../../build/emine_hatun/emine_hatun.egg-info/PKG-INFO
+[0.572s] writing dependency_links to ../../build/emine_hatun/emine_hatun.egg-info/dependency_links.txt
+[0.572s] writing entry points to ../../build/emine_hatun/emine_hatun.egg-info/entry_points.txt
+[0.572s] writing requirements to ../../build/emine_hatun/emine_hatun.egg-info/requires.txt
+[0.572s] writing top-level names to ../../build/emine_hatun/emine_hatun.egg-info/top_level.txt
+[0.591s] reading manifest file '../../build/emine_hatun/emine_hatun.egg-info/SOURCES.txt'
+[0.592s] writing manifest file '../../build/emine_hatun/emine_hatun.egg-info/SOURCES.txt'
+[0.592s] running build
+[0.592s] running build_py
+[0.592s] copying emine_hatun/publisher.py -> /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun
+[0.592s] running install
+[0.592s] running install_lib
+[0.593s] copying /home/emine/mekatek/build/emine_hatun/build/lib/emine_hatun/publisher.py -> /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun
+[0.593s] byte-compiling /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun/publisher.py to publisher.cpython-38.pyc
+[0.594s] running install_data
+[0.594s] running install_egg_info
+[0.595s] removing '/home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun-0.0.0-py3.8.egg-info' (and everything under it)
+[0.595s] Copying ../../build/emine_hatun/emine_hatun.egg-info to /home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages/emine_hatun-0.0.0-py3.8.egg-info
+[0.595s] running install_scripts
+[0.605s] Installing listener script to /home/emine/mekatek/install/emine_hatun/lib/emine_hatun
+[0.605s] Installing talker script to /home/emine/mekatek/install/emine_hatun/lib/emine_hatun
+[0.605s] writing list of installed files to '/home/emine/mekatek/build/emine_hatun/install.log'
+[0.615s] Invoked command in '/home/emine/mekatek/src/emine_hatun' returned '0': PYTHONPATH=/home/emine/mekatek/build/emine_hatun/prefix_override:/home/emine/mekatek/install/emine_hatun/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emine_hatun build --build-base /home/emine/mekatek/build/emine_hatun/build install --record /home/emine/mekatek/build/emine_hatun/install.log --install-scripts $base/lib/emine_hatun --single-version-externally-managed
